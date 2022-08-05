@@ -4,7 +4,7 @@
 - University Roll No.: 1900290000025
 - Branch: Civil Engineering
 - Section: A
-- Preferred Programming Language: C++
+- Preferred Programming Language: C++,Python 
 
 ## Coding Profiles
 - LeetCode: [GAURAV_PANDEY](https://leetcode.com/gauravsb0711/)
