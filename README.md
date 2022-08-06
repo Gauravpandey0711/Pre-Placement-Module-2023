@@ -1,6 +1,6 @@
 # Pre-Placement-Module-2023
 
-- Name: Guarav pandey
+- Name: Gaurav pandey
 - University Roll No.: 1900290000025
 - Branch: Civil Engineering
 - Section: A
